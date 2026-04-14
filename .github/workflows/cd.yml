@@ -18,7 +18,7 @@ jobs:
         uses: docker/login-action@6d4b68b490aef8836e8fb5e50ee7b3bdfa5894f0
         with:
           username: zack914
-          password: dckr_pat_EnRgR7GcyzQLVwQeRCtAHOLqm7Y
+          password: dckr_pat_1hfJn5LbPv6JlK93eZkX-Jh7pxk
 
       - name: Build and push Docker image
         id: push
